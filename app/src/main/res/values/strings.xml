@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CarsAPP</string>
+    <string name="loveIcon">Love Icon</string>
+    <string name="rate">Rate icon</string>
+</resources>
